@@ -9,18 +9,19 @@ Este repositorio presenta el proyecto final del curso de Análisis de Datos en C
 
 2. **Análisis y Visualización en Power BI** 📈🖥️:
    Se construyó un dashboard interactivo en Power BI, dividido en las siguientes secciones:
-   - **Sección 1: Visión General** 📋: ![Imagen del Dashboard - Parte 1](URL_IMAGEN_SECCION_1)
-   - **Sección 2: Análisis de Transferencias** 🔍: ![Imagen del Dashboard - Parte 2](URL_IMAGEN_SECCION_2)
-   - **Sección 3: Insights y Tendencias** 📊: ![Imagen del Dashboard - Parte 3](URL_IMAGEN_SECCION_3)
+   - **TRANSFERENCIAS** 📋:
+   - ![Imagen del Dashboard - Parte 1](https://github.com/rokepalacio0/Transferencias-de-autos-proyecto-final-/blob/main/IMAGES/Captura%20de%20pantalla%202024-09-13%20004916.png)
+   - **VEHICULOS** 🔍:
+   - ![Imagen del Dashboard - Parte 2](https://github.com/rokepalacio0/Transferencias-de-autos-proyecto-final-/blob/main/IMAGES/Captura%20de%20pantalla%202024-09-13%20004929.png)
+   - **CLIENTES** 📊:
+   - ![Imagen del Dashboard - Parte 3](https://github.com/rokepalacio0/Transferencias-de-autos-proyecto-final-/blob/main/IMAGES/Captura%20de%20pantalla%202024-09-13%20004938.png)
 
    Cada sección del dashboard ofrece gráficos interactivos y filtros para explorar los datos a fondo y comprender las tendencias y patrones en las transferencias de autos.
 
 ## Capturas del Proyecto
 
-- **Datos Limpios en Excel**: ![Imagen de Datos Limpios en Excel](URL_IMAGEN_EXCEL_LIMPIO)
-- **Sección 1 del Dashboard**: ![Imagen del Dashboard - Parte 1](URL_IMAGEN_SECCION_1)
-- **Sección 2 del Dashboard**: ![Imagen del Dashboard - Parte 2](URL_IMAGEN_SECCION_2)
-- **Sección 3 del Dashboard**: ![Imagen del Dashboard - Parte 3](URL_IMAGEN_SECCION_3)
+- **Datos Limpios en Excel**: ![Imagen de Datos Limpios en Excel](https://github.com/rokepalacio0/Transferencias-de-autos-proyecto-final-/blob/main/IMAGES/Captura%20de%20pantalla%202024-09-13%20012851.png)
+- **DIAGRAMA DE FLUJO**: ![Imagen del Dashboard - Parte 1](https://github.com/rokepalacio0/Transferencias-de-autos-proyecto-final-/blob/main/IMAGES/diagrama_flujo.drawio.png)
 
 ## Enlace al Dashboard Interactivo en Power BI
 
